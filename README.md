@@ -2,7 +2,7 @@
 <hr>
 <p>The assignment is to clone a Newsweek page.</p>
 <hr>
-<img src="img/news.png">
+<img src="img/newsweeek.png">
 <br>
 <p>The general purpose of the project was to practice use of bootstrap in web design.</p><br>
 <h3><b>Built with</b></h3>
