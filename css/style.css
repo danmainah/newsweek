@@ -1,0 +1,23 @@
+.bg-news {
+    background-color: #f72122;
+}
+
+#logo-link {
+    width: 30%;
+}
+
+.news-logo {
+    padding-right: 5px;
+    max-width: 100%;
+}
+
+@media screen and (min-width: 768px) {
+.news-logo {
+    width: 50%;
+}
+
+}
+
+@media screen and (min-width: 992px) {
+
+}
