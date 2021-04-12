@@ -23,6 +23,11 @@
   font-size: 12px;
 }
 
+#footer-img {
+  width: 300px;
+  height: 40px;
+}
+
 @media screen and (min-width: 768px) {
   .newslogo {
     width: 50%;
@@ -43,10 +48,10 @@
   margin-bottom: 12px;
   fill: #f72210;
 }
-@media (min-width: 700px){
-  
-footer .ftn{
-  display: flex;
- justify-content: flex-end;
-}
+
+@media (min-width: 700px) {
+  footer .ftn {
+    display: flex;
+    justify-content: flex-end;
+  }
 }
