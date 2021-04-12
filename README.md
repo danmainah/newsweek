@@ -42,6 +42,3 @@
 
 <h3><b>Show your support</b></h3>
 Give a ⭐️ if you like this project!<hr>
-
-<h3><b>Acknowledgments</b></h3>
-<hr>
