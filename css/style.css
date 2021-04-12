@@ -3,22 +3,34 @@
 }
 
 #logo-link {
-  width: 30%;
+  width: 35%;
 }
 
-.news-logo {
+.newslogo {
   padding-right: 5px;
   max-width: 100%;
 }
 
+.sm-font {
+  font-size: 18px;
+}
+
+.m-font {
+  font-size: 14px;
+}
+
+.b-font {
+  font-size: 12px;
+}
+
 @media screen and (min-width: 768px) {
-  .news-logo {
+  .newslogo {
     width: 50%;
   }
 }
 
 @media screen and (min-width: 992px) {
-  .news-logo {
-    margin: 5px auto;
+  .newslogo {
+    margin: 5px 250px;
   }
 }
