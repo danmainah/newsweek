@@ -34,3 +34,19 @@
     margin: 5px 250px;
   }
 }
+
+.brand svg {
+  display: block;
+  width: 236px;
+  height: 36px;
+  margin-right: 15px;
+  margin-bottom: 12px;
+  fill: #f72210;
+}
+@media (min-width: 700px){
+  
+footer .ftn{
+  display: flex;
+ justify-content: flex-end;
+}
+}
