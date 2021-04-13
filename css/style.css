@@ -1,3 +1,7 @@
+* {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
 .bg-news {
   background-color: #f72122;
 }
@@ -12,15 +16,15 @@
 }
 
 .sm-font {
-  font-size: 18px;
+  font-size: 12px;
 }
 
 .m-font {
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .b-font {
-  font-size: 12px;
+  font-size: 19px;
 }
 
 #footer-img {
@@ -31,6 +35,11 @@
 @media screen and (min-width: 768px) {
   .newslogo {
     width: 50%;
+  }
+
+  footer .ftn {
+    display: flex;
+    justify-content: flex-end;
   }
 }
 
@@ -47,11 +56,4 @@
   margin-right: 15px;
   margin-bottom: 12px;
   fill: #f72210;
-}
-
-@media (min-width: 700px) {
-  footer .ftn {
-    display: flex;
-    justify-content: flex-end;
-  }
 }
