@@ -1,5 +1,7 @@
 * {
   font-family: 'Roboto Condensed', sans-serif;
+  list-style: none;
+  text-decoration: none;
 }
 
 .fas {
