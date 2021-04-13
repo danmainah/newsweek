@@ -2,6 +2,13 @@
   font-family: 'Roboto Condensed', sans-serif;
 }
 
+.fas {
+  width: 20px;
+  height: 20px;
+  color: #fff;
+  opacity: 0.75;
+}
+
 .bg-news {
   background-color: #f72122;
   height: 50px;
@@ -41,6 +48,12 @@
 @media screen and (min-width: 768px) {
   .newslogo {
     width: 50%;
+  }
+
+  .fa-bars {
+    width: 20px;
+    color: #fff;
+    opacity: 0.75;
   }
 
   footer .ftn {
