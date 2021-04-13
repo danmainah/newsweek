@@ -54,6 +54,6 @@ footer .hsl {
 
 @media screen and (min-width: 992px) {
   .newslogo {
-    margin: 5px 250px;
+    width: 30%;
   }
 }
