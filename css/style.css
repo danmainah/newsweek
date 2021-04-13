@@ -1,0 +1,74 @@
+* {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.fas {
+  width: 20px;
+  height: 20px;
+  color: #fff;
+  opacity: 0.75;
+}
+
+.bg-news {
+  background-color: #f72122;
+  height: 50px;
+}
+
+#logo-link {
+  fill: white;
+}
+
+.newslogo {
+  width: 132px;
+  height: 60px;
+}
+
+.sm-font {
+  font-size: 12px;
+}
+
+.m-font {
+  font-size: 16px;
+}
+
+.b-font {
+  font-size: 19px;
+}
+
+.brand svg {
+  vertical-align: bottom;
+}
+
+.footer-img {
+  width: 10rem;
+  height: 1.5rem;
+  fill: #f72210;
+}
+
+@media screen and (min-width: 768px) {
+  .newslogo {
+    width: 50%;
+  }
+
+  .fa-bars {
+    width: 20px;
+    color: #fff;
+    opacity: 0.75;
+  }
+
+  footer .ftn {
+    display: flex;
+    justify-content: flex-end;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .bg-news {
+    height: 95px;
+  }
+
+  .newslogo {
+    width: 395px;
+    height: 60px;
+  }
+}
