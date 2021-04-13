@@ -4,15 +4,16 @@
 
 .bg-news {
   background-color: #f72122;
+  height: 50px;
 }
 
 #logo-link {
-  width: 35%;
+  fill: white;
 }
 
 .newslogo {
-  padding-right: 5px;
-  max-width: 100%;
+  width: 132px;
+  height: 60px;;
 }
 
 .sm-font {
@@ -54,7 +55,12 @@ footer .hsl {
 }
 
 @media screen and (min-width: 992px) {
+  .bg-news {
+    height: 95px;
+  }
+
   .newslogo {
-    margin: 5px 250px;
+    width: 395px;
+    height: 60px;
   }
 }
