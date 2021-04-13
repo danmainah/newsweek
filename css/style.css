@@ -27,15 +27,17 @@
   font-size: 19px;
 }
 
-.brand svg{
-   vertical-align: bottom;
+.brand svg {
+  vertical-align: bottom;
 }
+
 #footer-img {
   width: 15rem;
   height: 1.5 rem;
   fill: #f72210;
 }
-footer .hsl{
+
+footer .hsl {
   height: 1 rem;
 }
 
