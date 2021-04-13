@@ -15,7 +15,7 @@
 <br>
 <h3><b>Live Demo</b></h3>
 <hr>
-<a href="">Live Demo Link</a><br>
+<a href="https://danmainah.github.io/newsweek/">Live Demo Link</a><br>
 <h3><b>Getting Started</b></h3>
 <hr>
                         
