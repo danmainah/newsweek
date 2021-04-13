@@ -13,7 +13,7 @@
 
 .newslogo {
   width: 132px;
-  height: 60px;;
+  height: 60px;
 }
 
 .sm-font {
@@ -30,17 +30,12 @@
 
 .brand svg {
   vertical-align: bottom;
-  align-content: left;
 }
 
 .footer-img {
   width: 10rem;
   height: 1.5rem;
   fill: #f72210;
-}
-
-footer .hsl {
-  height: 1 rem;
 }
 
 @media screen and (min-width: 768px) {
