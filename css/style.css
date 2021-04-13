@@ -2,25 +2,17 @@
   font-family: 'Roboto Condensed', sans-serif;
 }
 
-.fas {
-  width: 20px;
-  height: 20px;
-  color: #fff;
-  opacity: 0.75;
-}
-
 .bg-news {
   background-color: #f72122;
-  height: 50px;
 }
 
 #logo-link {
-  fill: white;
+  width: 35%;
 }
 
 .newslogo {
-  width: 132px;
-  height: 60px;
+  padding-right: 5px;
+  max-width: 100%;
 }
 
 .sm-font {
@@ -35,14 +27,86 @@
   font-size: 19px;
 }
 
-.brand svg {
-  vertical-align: bottom;
+/* article section */
+.row .d-flex {
+  max-width: 27rem;
 }
 
+.joe-img img{
+height: 15rem;
+width: 27rem; 
+}
+ .joe-con{
+  max-width: 27rem;
+ }
+.myturn{
+  max-width: 27rem;
+}
+
+.myturn-con img{
+  height: 9rem;
+  width: 9rem; 
+}
+
+.travel {
+  max-width: 30rem;
+}
+
+.travel-con img{
+  height: 9rem;
+  width: 9rem; 
+}
+
+.stories-con img{
+  display: inline;
+  float: left; 
+  height: 7rem;
+  width: 7rem; 
+  padding-right: .5rem;
+}
+
+.stories-con p{
+  text-align: justify;
+  font-size: 1.25rem;
+  padding-left: 5px;
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+} 
+
+ aside{
+  position: absolute;
+  top: 15rem;
+  right: 1%;
+  width: 20rem;
+  margin-right: 0%;
+ }
+
+ .debate-con{
+  font-size: 1rem;
+  padding-left: 1rem;
+ }
+
+ .debate-con img{
+   display: inline;
+   float: left;
+   padding-right: 1rem;
+ }
+.brand svg{
+   vertical-align: bottom;
+   align-content: left;
+}
 .footer-img {
   width: 10rem;
   height: 1.5rem;
   fill: #f72210;
+  
+}
+footer .hsl{
+  height: 1 rem;
 }
 
 @media screen and (min-width: 768px) {
@@ -50,25 +114,17 @@
     width: 50%;
   }
 
-  .fa-bars {
-    width: 20px;
-    color: #fff;
-    opacity: 0.75;
-  }
 
   footer .ftn {
     display: flex;
     justify-content: flex-end;
   }
+  
 }
 
 @media screen and (min-width: 992px) {
-  .bg-news {
-    height: 95px;
-  }
-
   .newslogo {
-    width: 395px;
-    height: 60px;
+    margin: 5px 250px;
   }
 }
+
