@@ -124,6 +124,20 @@ img {
   fill: #f72210;
 }
 
+.editor img{
+  height: 10rem;
+  width: 15rem;
+  }
+  
+.magazine img{
+    height: 14rem;
+    width: 15rem;
+}
+  
+.red{
+      background-color: #f72210;
+     }
+
 @media screen and (min-width: 768px) {
   .newslogo {
     width: 50%;
