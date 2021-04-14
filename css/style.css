@@ -79,6 +79,10 @@ img {
   background-color: #f4f5f6;
 }
 
+.bg-4{
+  background-color: rgba(255,255,255,.9);
+}
+
 .signup {
   width: 60%;
 }
@@ -134,9 +138,34 @@ img {
     width: 15rem;
 }
   
-.red{
-      background-color: #f72210;
-     }
+a {
+      color: inherit;
+      text-decoration: none;
+ }
+    
+.bg-news {
+      background-color: #f72122;
+ }
+
+ .red{
+  background-color: #f72210;
+}
+
+
+.n-title {
+  font: bold 19px/19px "Roboto Condensed",sans-serif;
+  text-transform: uppercase;
+}
+
+.n-title .icon-n {
+  -webkit-flex: none;
+  flex: left;
+  display: block;
+  width: 1.2rem;
+  height: 1.3rem;
+  background: url(https://web.archive.org/web/20210120125445im_/https://g.newsweek.com/www/images/logo-n1.svg) center/contain no-repeat #f72210;
+  margin-right: 10px;
+}
 
 @media screen and (min-width: 768px) {
   .newslogo {
