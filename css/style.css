@@ -122,8 +122,8 @@
   }
 
   .tw {
-    width: 536px;
-    height: 311px;
+    width: 100%;
+    height: auto;
   }
 
   .insight {
