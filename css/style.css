@@ -75,6 +75,9 @@ img {
   background-color: #c2d4d7;
 }
 
+.bg-light {
+  background-color: #f4f5f6;
+}
 .signup {
   width: 60%;
 }
